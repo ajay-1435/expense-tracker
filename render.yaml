@@ -2,6 +2,6 @@ services:
   - type: web
     name: expense-tracker
     runtime: docker
-    repo: https://github.com/YOUR_USERNAME/YOUR_REPO
+    repo: https://github.com/ajay-1435/expense-tracker
     plan: free
     dockerfilePath: ./Dockerfile
